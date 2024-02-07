@@ -50,7 +50,7 @@ https://github.com/AntennaPod/AntennaPod
 
 简洁好看的播客播放器，可以订阅RSS 源。
 
-https://www.podpodium.app/app
+[https://www.podpodium.app/app](https://github.com/farmer00317558/podpodium?tab=readme-ov-file)
 
 ### 输入法
 
